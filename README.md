@@ -1,1 +1,1 @@
-A simple Snake Game written in Python
+A simple Coin Collector Game written in Python
